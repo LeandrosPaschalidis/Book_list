@@ -17,7 +17,7 @@ Mathematical methods in chemical engineering, A. Varma & M. Morbidelli
 Analysis, Synthesis and Design of Chemical Processes, R. Turton 
 
 **6. Mathematical modeling:**
-Mathematical modeling, C. Eck, H. Garcke, P. Knabner
+Mathematical modeling, C. Eck, H. Garcke & P. Knabner
 
 **7. Thermodynamics:**
 Introduction to thermodynamics, J. M. Smith, H.C. Van Ness & M. M. Abbot
