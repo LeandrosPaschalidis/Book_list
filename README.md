@@ -3,9 +3,7 @@
 
 **1. Reaction engineering:**
 
-Chemical reaction engineering, O. Levenspiel 
-
-Link: https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/chemical-reaction-engineering-978-0-471-25424-9
+[Chemical reaction engineering, O. Levenspiel]( https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/chemical-reaction-engineering-978-0-471-25424-9) 
 
 **2. Thermal separations:**
 Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind
