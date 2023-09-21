@@ -6,25 +6,33 @@
 [Chemical reaction engineering, O. Levenspiel]( https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/chemical-reaction-engineering-978-0-471-25424-9) 
 
 **2. Thermal separations:**
-Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind
+
+[Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind](https://www.lehmanns.de/shop/wirtschaft/22734958-9783642125256-thermal-separation-technology)
 
 **3. Programming:**
-Learning Scientific Programming with Python, C. Hill 
+
+[Learning Scientific Programming with Python, C. Hill](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237) 
 
 **4. Mathematics:**
-Mathematical methods in chemical engineering, A. Varma & M. Morbidelli 
+
+[Mathematical methods in chemical engineering, A. Varma & M. Morbidelli](https://www.waterstones.com/book/mathematical-methods-in-chemical-engineering/arvind-varma/massimo-morbidelli/9780195098211)
 
 **5. Process design and economics:**
-Analysis, Synthesis and Design of Chemical Processes, R. Turton 
+
+[Analysis, Synthesis and Design of Chemical Processes, R. Turton](https://www.lehmanns.de/shop/technik/39289638-9780134177403-analysis-synthesis-and-design-of-chemical-processes)
 
 **6. Mathematical modeling:**
-Mathematical modeling, C. Eck, H. Garcke & P. Knabner
+
+[Mathematical modeling, C. Eck, H. Garcke & P. Knabner](https://link.springer.com/book/10.1007/978-3-662-54335-1)
 
 **7. Thermodynamics:**
-Introduction to thermodynamics, J. M. Smith, H.C. Van Ness & M. M. Abbot
+
+[Introduction to thermodynamics, J. M. Smith, H.C. Van Ness & M. M. Abbot](https://www.amazon.de/Introduction-Chemical-Engineering-Thermodynamics-Taschenbuch/dp/B011MDWV2S)
 
 **8. Bioprocess design:**
-Biprocess engineering, P. M. Doran
+
+[Bioprocess engineering principles, P. M. Doran](https://books.google.de/books/about/Bioprocess_Engineering_Principles.html?id=wZSylDhgEXMC&redir_esc=y)
 
 **9. Wildcard:**
-Classical mechanics the theoretical minimum, L. Susskind & A. Friedman 
+
+[Classical mechanics the theoretical minimum, L. Susskind & A. Friedman](https://www.amazon.de/-/en/Leonard-Susskind/dp/0141976225)
