@@ -50,5 +50,5 @@
 
 **10. Fluid dynamics:**
 
-[Fluid mechanics for chemical engineers, J. Wilkes]([https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X](https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)
+[Fluid mechanics for chemical engineers, J. Wilkes](https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)
 
