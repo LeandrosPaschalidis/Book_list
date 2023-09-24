@@ -38,6 +38,8 @@
 
 [Chemical Thermodynamics for Process Simulation, Jürgen Gmehling, Michael Kleiber, Bärbel Kolbe, Jürgen Rarey](https://www.amazon.de/Chemical-Thermodynamics-Process-Simulation-Gmehling/dp/3527343253/ref=asc_df_3527343253/?tag=googshopde-21&linkCode=df0&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9715639143336846732&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041847&hvtargid=pla-771669953477&psc=1&th=1&psc=1&tag=&ref=&adgrpid=64755475434&hvpone=&hvptwo=&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9715639143336846732&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041847&hvtargid=pla-771669953477)
 
+[Classical Thermodynamics of Fluid Systems, Grazyna Wilczek-Vera, Juan H. Vera](https://www.amazon.de/-/en/Professor-Emeritus-McGill-University-Montreal/dp/1498767273)
+
 **8. Bioprocess design:**
 
 [Bioprocess engineering principles, P. M. Doran](https://books.google.de/books/about/Bioprocess_Engineering_Principles.html?id=wZSylDhgEXMC&redir_esc=y)
