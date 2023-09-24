@@ -47,3 +47,8 @@
 **9. Wildcard:**
 
 [Classical mechanics the theoretical minimum, L. Susskind & A. Friedman](https://www.amazon.de/-/en/Leonard-Susskind/dp/0141976225)
+
+**10. Fluid dynamics:**
+
+[Fluid mechanics for chemical engineers, J. Wilkes]([https://www.amazon.de/-/en/Leonard-Susskind/dp/0141976225](https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)
+
