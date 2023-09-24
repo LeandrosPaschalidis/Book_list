@@ -43,6 +43,9 @@
 
 [Classical Thermodynamics of Fluid Systems, Grazyna Wilczek-Vera, Juan H. Vera](https://www.amazon.de/-/en/Professor-Emeritus-McGill-University-Montreal/dp/1498767273)
 
+[The Properties of Gases & Liquids, John Prausnitz](https://books.google.de/books/about/The_Properties_of_Gases_and_Liquids_5E.html?id=9tGclC3ZRX0C&redir_esc=y)
+
+
 **8. Bioprocess design:**
 
 [Bioprocess engineering principles, P. M. Doran](https://books.google.de/books/about/Bioprocess_Engineering_Principles.html?id=wZSylDhgEXMC&redir_esc=y)
@@ -56,6 +59,8 @@
 [Fluid mechanics for chemical engineers, J. Wilkes](https://www.amazon.de/Fluid-Mechanics-Chemical-Engineers-Microfluidics/dp/013471282X)
 
 **12. Experimental:**
+
+[Applied Statistics and Probability for Engineers, George C. Runger, Douglas C. Montgomery](https://www.oreilly.com/library/view/applied-statistics-and/9780470053041/)
 
 []()
 
