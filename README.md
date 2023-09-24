@@ -13,6 +13,7 @@
 
 [Encyclopedia of Separation Science, Ian D. Wilson, Colin F. Poole, Michael Cooke](https://www.amazon.de/-/en/Ian-D-Wilson/dp/0122267702)
 
+[Mass Transfer: From Fundamentals to Modern Industrial Applications, Koichi Asano](https://www.wiley.com/en-us/Mass+Transfer%3A+From+Fundamentals+to+Modern+Industrial+Applications-p-9783527609086)
 
 **3. Programming:**
 
