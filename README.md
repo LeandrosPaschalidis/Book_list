@@ -62,5 +62,5 @@
 
 [Applied Statistics and Probability for Engineers, George C. Runger, Douglas C. Montgomery](https://www.oreilly.com/library/view/applied-statistics-and/9780470053041/)
 
-[]()
+[Practical Gas Chromatography, Katja Dettmer-Wilde, Werner Engewald](https://link.springer.com/book/10.1007/978-3-642-54640-2)
 
