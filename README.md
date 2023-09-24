@@ -11,7 +11,7 @@
 
 [Separation Process Principles,  J. D. Seader, Ernest J. Henley, D. Keith Roper](https://www.amazon.com/Separation-Process-Principles-Applications-Simulators/dp/0470481838)
 
-[Encyclopedia of Separation Science, Ian D. Wilson, Colin F. Poole, Michael Cooke](https://www.amazon.de/-/en/Ian-D-Wilson/dp/0122267702))
+[Encyclopedia of Separation Science, Ian D. Wilson, Colin F. Poole, Michael Cooke](https://www.amazon.de/-/en/Ian-D-Wilson/dp/0122267702)
 
 
 **3. Programming:**
