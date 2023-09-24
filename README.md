@@ -45,6 +45,7 @@
 
 [The Properties of Gases & Liquids, John Prausnitz](https://books.google.de/books/about/The_Properties_of_Gases_and_Liquids_5E.html?id=9tGclC3ZRX0C&redir_esc=y)
 
+[Molecular thermodynamics of fluid phase equillibria, Edmundo Gomes de Azevedo, John Prausnitz, Rüdiger Lichtenthaler](https://books.google.de/books?id=VSwc1XUmYpcC&printsec=frontcover&dq=thermodynamics+prentice+hall&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q&f=false)
 
 **8. Bioprocess design:**
 
