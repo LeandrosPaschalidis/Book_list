@@ -26,6 +26,8 @@
 
 [Analysis, Synthesis and Design of Chemical Processes, R. Turton](https://www.lehmanns.de/shop/technik/39289638-9780134177403-analysis-synthesis-and-design-of-chemical-processes)
 
+[Chemical Engineering Design: Principles, Practice and Economics of Plant and Process Design,  Gavin Towler, Ray Sinnott](https://www.amazon.de/Chemical-Engineering-Design-Principles-Economics/dp/0080966594/ref=asc_df_0080966594/?tag=googshopde-21&linkCode=df0&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9435437285737898087&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041832&hvtargid=pla-489268787218&psc=1&th=1&psc=1&tag=&ref=&adgrpid=64755475434&hvpone=&hvptwo=&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9435437285737898087&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041832&hvtargid=pla-489268787218)
+
 **6. Mathematical modeling:**
 
 [Mathematical modeling, C. Eck, H. Garcke & P. Knabner](https://link.springer.com/book/10.1007/978-3-662-54335-1)
@@ -33,6 +35,8 @@
 **7. Thermodynamics:**
 
 [Introduction to thermodynamics, J. M. Smith, H.C. Van Ness & M. M. Abbot](https://www.amazon.de/Introduction-Chemical-Engineering-Thermodynamics-Taschenbuch/dp/B011MDWV2S)
+
+[Chemical Thermodynamics for Process Simulation, Jürgen Gmehling, Michael Kleiber, Bärbel Kolbe, Jürgen Rarey](https://www.amazon.de/Chemical-Thermodynamics-Process-Simulation-Gmehling/dp/3527343253/ref=asc_df_3527343253/?tag=googshopde-21&linkCode=df0&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9715639143336846732&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041847&hvtargid=pla-771669953477&psc=1&th=1&psc=1&tag=&ref=&adgrpid=64755475434&hvpone=&hvptwo=&hvadid=310696713837&hvpos=&hvnetw=g&hvrand=9715639143336846732&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041847&hvtargid=pla-771669953477)
 
 **8. Bioprocess design:**
 
