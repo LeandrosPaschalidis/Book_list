@@ -9,9 +9,14 @@
 
 [Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind](https://www.lehmanns.de/shop/wirtschaft/22734958-9783642125256-thermal-separation-technology)
 
+[Separation Process Principles,  J. D. Seader, Ernest J. Henley, D. Keith Roper](https://www.amazon.com/Separation-Process-Principles-Applications-Simulators/dp/0470481838)
+
+
 **3. Programming:**
 
 [Learning Scientific Programming with Python, C. Hill](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237) 
+
+[Learn Aspen Plus in 24 Hours, Thomas Adams](https://www.amazon.de/-/en/Thomas-Adams/dp/126011645X)
 
 **4. Mathematics:**
 
