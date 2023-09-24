@@ -5,11 +5,13 @@
 
 [Chemical reaction engineering, O. Levenspiel]( https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/chemical-reaction-engineering-978-0-471-25424-9) 
 
-**2. Thermal separations:**
+**2. (Thermal) separations:**
 
 [Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind](https://www.lehmanns.de/shop/wirtschaft/22734958-9783642125256-thermal-separation-technology)
 
 [Separation Process Principles,  J. D. Seader, Ernest J. Henley, D. Keith Roper](https://www.amazon.com/Separation-Process-Principles-Applications-Simulators/dp/0470481838)
+
+[Encyclopedia of Separation Science, Ian D. Wilson, Colin F. Poole, Michael Cooke](https://www.amazon.de/-/en/Ian-D-Wilson/dp/0122267702))
 
 
 **3. Programming:**
