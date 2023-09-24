@@ -15,7 +15,7 @@
 
 [Mass Transfer: From Fundamentals to Modern Industrial Applications, Koichi Asano](https://www.wiley.com/en-us/Mass+Transfer%3A+From+Fundamentals+to+Modern+Industrial+Applications-p-9783527609086)
 
-**3. Programming:**
+**3. Programming and simulation:**
 
 [Learning Scientific Programming with Python, C. Hill](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237) 
 
