@@ -5,6 +5,8 @@
 
 [Chemical reaction engineering, O. Levenspiel]( https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/chemical-reaction-engineering-978-0-471-25424-9) 
 
+[Chemical Reactor Design and Operation, K. Roel Westerterp, W. P. M. Van Swaaij, A. A. C. M. Beenackers](https://www.amazon.com/Chemical-Reactor-Design-Operation-2E/dp/0471917303)
+
 **2. (Thermal) separations:**
 
 [Thermal process technology, A. Mersmann, J. Stichlmair & M. Kind](https://www.lehmanns.de/shop/wirtschaft/22734958-9783642125256-thermal-separation-technology)
@@ -65,3 +67,10 @@
 
 [Practical Gas Chromatography, Katja Dettmer-Wilde, Werner Engewald](https://link.springer.com/book/10.1007/978-3-642-54640-2)
 
+**13. Mass and heat transfer:**
+
+[Fundamentals of Heat and Mass Transfer, Frank P. Incropera](https://www.wob.com/de-de/buecher/frank-p-incropera/fundamentals-of-heat-and-mass-transfer/9780471386506/GOR006618011?cq_src=google_ads&cq_cmp=17939935188&cq_con=&cq_med=pla&cq_plac=&cq_net=x&gclid=EAIaIQobChMI6sr1uMjDgQMVIgIGAB0R6gFrEAQYBiABEgLm7vD_BwE)
+
+[Transport Phenomena Hardcover,  R. Byron Bird, Warren E. Stewart, Edwin N. Lightfoot](https://www.amazon.de/Transport-Phenomena-R-Byron-Bird/dp/0470115394)
+
+[Diffusion, Mass Transfer in Fluid Systems, E. L. Cussler](https://www.cambridge.org/de/universitypress/subjects/engineering/chemical-engineering/diffusion-mass-transfer-fluid-systems-3rd-edition?format=HB&isbn=9780521871211)
